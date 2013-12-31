@@ -6,6 +6,10 @@
 
     Copyright Michael Margolis May 8 2012
 ********************************************************/
+// RobotMotor Arduino Library
+//
+// Copyright (c) 2013 Dave Sieh
+// See LICENSE.txt for details.
 
 #include <Arduino.h>  
 #include "AFMotor.h"  // adafruit motor shield library

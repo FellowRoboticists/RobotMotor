@@ -4,6 +4,10 @@
 	
     Copyright Michael Margolis May 8 2012
 ********************************************************/
+// RobotMotor Arduino Library
+//
+// Copyright (c) 2013 Dave Sieh
+// See LICENSE.txt for details.
 
 /* if you have the 4WD chassis, change the line:
      #define CHASSIS_2WD 
